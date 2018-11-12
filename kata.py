@@ -1,6 +1,6 @@
 
 
-
+# smallest number
 
 import intertools
 
@@ -25,7 +25,7 @@ print(another[-1])
 
 
 
-DDRESS IPV4
+# DDRESS IPV4
 
 def validIP(address):
     parts = address.split(".")
@@ -37,7 +37,7 @@ def validIP(address):
     return True
 
 
-STRINGS AND CHARACTER KATA
+# STRINGS AND CHARACTER KATA
 
 
 import re
@@ -46,10 +46,16 @@ import re
 def char(str):
     filter = re.sub([a-z],'',str)
     x = range(1,10)
-    n = x +???[10-x]
+    n = x + ???[10-x]
         if n:
             return True
         else:
+
+
+
+    
+
+
 
 
 
